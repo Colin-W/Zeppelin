@@ -1,0 +1,22 @@
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\bin\Release\TSA Browser123.exe.manifest
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\bin\Release\TSA Browser123.application
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\bin\Release\TSA Browser123.exe
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\bin\Release\TSA Browser123.pdb
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\bin\Release\TSA Browser123.xml
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\WindowsApplication1.Form2.resources
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\TSA Browser123.exe.manifest
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\TSA Browser123.application
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\TSA Browser123.exe
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\TSA Browser123.xml
+C:\Users\Colin\documents\visual studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\TSA Browser123.pdb
+C:\Users\Colin\Documents\Visual Studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\WindowsApplication1.Form3.resources
+C:\Users\Colin\Documents\Visual Studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\WindowsApplication1.Form4.resources
+C:\Users\Colin\Documents\Visual Studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\WindowsApplication1.Form5.resources
+C:\Users\Colin\Documents\Visual Studio 2010\Projects\TSA Browser123\TSA Browser123\bin\Release\TSA Browser123.exe.config
+C:\Users\Colin\Documents\Visual Studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\WindowsApplication1.Form6.resources
+C:\Users\Colin\Documents\Visual Studio 2010\Projects\TSA Browser123\TSA Browser123\obj\x86\Release\WindowsApplication1.Form7.resources
